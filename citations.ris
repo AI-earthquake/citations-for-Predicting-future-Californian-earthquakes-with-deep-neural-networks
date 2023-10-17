@@ -1,0 +1,2163 @@
+TY  - CONF
+TI  - Study on seismic magnitude prediction based on combination algorithm
+AU  - Zhou, Wan-zhen
+AU  - Kan, Jing-sen
+AU  - Sun, Shuo
+T2  - 2017 9th International Conference on Modelling, Identification and Control (ICMIC)
+DA  - 2017/07//
+PY  - 2017
+DO  - 10.1109/icmic.2017.8321703
+PB  - IEEE
+UR  - http://dx.doi.org/10.1109/icmic.2017.8321703
+ER  - 
+
+TY  - CONF
+TI  - A Normalized ANN Model for Earthquake Estimation
+AU  - Mehta, Dibyendu
+AU  - Das, Priti Priya
+AU  - Ghosh, Sagnik
+AU  - Mishra, Sushruta
+AU  - Alkhayyat, Ahmed
+AU  - Sharma, Vandana
+T2  - 2023 2nd International Conference on Applied Artificial Intelligence and Computing (ICAAIC)
+DA  - 2023/05/04/
+PY  - 2023
+DO  - 10.1109/icaaic56838.2023.10140242
+PB  - IEEE
+UR  - http://dx.doi.org/10.1109/icaaic56838.2023.10140242
+ER  - 
+
+TY  - JOUR
+TI  - Investigating the relationship between earthquake occurrences and climate change using RNN-based deep learning approach
+AU  - Sadhukhan, Bikash
+AU  - Chakraborty, Shayak
+AU  - Mukherjee, Somenath
+T2  - Arabian Journal of Geosciences
+DA  - 2021/12/23/
+PY  - 2021
+DO  - 10.1007/s12517-021-09229-y
+VL  - 15
+IS  - 1
+SN  - 1866-7511
+UR  - http://dx.doi.org/10.1007/s12517-021-09229-y
+ER  - 
+
+TY  - JOUR
+TI  - Predicting the magnitude of an impending earthquake using deep learning techniques
+AU  - Sadhukhan, Bikash
+AU  - Chakraborty, Shayak
+AU  - Mukherjee, Somenath
+T2  - Earth Science Informatics
+DA  - 2022/12/23/
+PY  - 2022
+DO  - 10.1007/s12145-022-00916-2
+VL  - 16
+IS  - 1
+SP  - 803
+EP  - 823
+SN  - 1865-0473
+UR  - http://dx.doi.org/10.1007/s12145-022-00916-2
+ER  - 
+
+TY  - JOUR
+TI  - The deterministic dendritic cell algorithm with Haskell in earthquake magnitude prediction
+AU  - Zhou, Wen
+AU  - Dong, Hongbin
+AU  - Liang, Yiwen
+T2  - Earth Science Informatics
+DA  - 2020/02/22/
+PY  - 2020
+DO  - 10.1007/s12145-020-00442-z
+VL  - 13
+IS  - 2
+SP  - 447
+EP  - 457
+SN  - 1865-0473
+UR  - http://dx.doi.org/10.1007/s12145-020-00442-z
+ER  - 
+
+TY  - JOUR
+TI  - Earthquake magnitude prediction in Turkey: a comparative study of deep learning methods, ARIMA and singular spectrum analysis
+AU  - Öncel Çekim, Hatice
+AU  - Karakavak, Hatice Nur
+AU  - Özel, Gamze
+AU  - Tekin, Senem
+T2  - Environmental Earth Sciences
+DA  - 2023/08//
+PY  - 2023
+DO  - 10.1007/s12665-023-11072-1
+VL  - 82
+IS  - 16
+SN  - 1866-6280
+UR  - http://dx.doi.org/10.1007/s12665-023-11072-1
+ER  - 
+
+TY  - JOUR
+TI  - MFOFLANN: moth flame optimized functional link artificial neural network for prediction of earthquake magnitude
+AU  - Majhi, Santosh Kumar
+AU  - Hossain, Sk Sajeed
+AU  - Padhi, Trilok
+T2  - Evolving Systems
+DA  - 2019/07/12/
+PY  - 2019
+DO  - 10.1007/s12530-019-09293-6
+VL  - 11
+IS  - 1
+SP  - 45
+EP  - 63
+SN  - 1868-6478
+UR  - http://dx.doi.org/10.1007/s12530-019-09293-6
+ER  - 
+
+TY  - JOUR
+TI  - Earthquake Nowcasting with Deep Learning
+AU  - Fox, Geoffrey Charles
+AU  - Rundle, John B.
+AU  - Donnellan, Andrea
+AU  - Feng, Bo
+T2  - GeoHazards
+DA  - 2022/04/15/
+PY  - 2022
+DO  - 10.3390/geohazards3020011
+VL  - 3
+IS  - 2
+SP  - 199
+EP  - 226
+SN  - 2624-795X
+UR  - http://dx.doi.org/10.3390/geohazards3020011
+ER  - 
+
+TY  - JOUR
+TI  - Hybrid Technique Using Singular Value Decomposition (SVD) and Support Vector Machine (SVM) Approach for Earthquake Prediction
+AU  - Astuti, Winda
+AU  - Akmeliawati, Rini
+AU  - Sediono, Wahju
+AU  - Salami, M. J. E.
+T2  - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+DA  - 2014/05//
+PY  - 2014
+DO  - 10.1109/jstars.2014.2321972
+VL  - 7
+IS  - 5
+SP  - 1719
+EP  - 1728
+SN  - 1939-1404
+UR  - http://dx.doi.org/10.1109/jstars.2014.2321972
+ER  - 
+
+TY  - JOUR
+TI  - A comprehensive analysis and prediction of earthquake magnitude based on position and depth parameters using machine and deep learning models
+AU  - Jain, Rachna
+AU  - Nayyar, Anand
+AU  - Arora, Simrann
+AU  - Gupta, Akash
+T2  - Multimedia Tools and Applications
+DA  - 2021/06/04/
+PY  - 2021
+DO  - 10.1007/s11042-021-11001-z
+VL  - 80
+IS  - 18
+SP  - 28419
+EP  - 28438
+SN  - 1380-7501
+UR  - http://dx.doi.org/10.1007/s11042-021-11001-z
+ER  - 
+
+TY  - JOUR
+TI  - Earthquake magnitude prediction in Hindukush region using machine learning techniques
+AU  - Asim, K. M.
+AU  - Martínez-Álvarez, F.
+AU  - Basit, A.
+AU  - Iqbal, T.
+T2  - Natural Hazards
+DA  - 2016/09/08/
+PY  - 2016
+DO  - 10.1007/s11069-016-2579-3
+VL  - 85
+IS  - 1
+SP  - 471
+EP  - 486
+SN  - 0921-030X
+UR  - http://dx.doi.org/10.1007/s11069-016-2579-3
+ER  - 
+
+TY  - JOUR
+TI  - Investigating the application of artificial intelligence for earthquake prediction in Terengganu
+AU  - Marhain, Suzlyana
+AU  - Ahmed, Ali Najah
+AU  - Murti, Muhammad Ary
+AU  - Kumar, Pavitra
+AU  - El-Shafie, Ahmed
+T2  - Natural Hazards
+DA  - 2021/04/04/
+PY  - 2021
+DO  - 10.1007/s11069-021-04716-7
+VL  - 108
+IS  - 1
+SP  - 977
+EP  - 999
+SN  - 0921-030X
+UR  - http://dx.doi.org/10.1007/s11069-021-04716-7
+ER  - 
+
+TY  - JOUR
+TI  - Medium–large earthquake magnitude prediction in Tokyo with artificial neural networks
+AU  - Asencio-Cortés, G.
+AU  - Martínez-Álvarez, F.
+AU  - Troncoso, A.
+AU  - Morales-Esteban, A.
+T2  - Neural Computing and Applications
+DA  - 2015/11/21/
+PY  - 2015
+DO  - 10.1007/s00521-015-2121-7
+VL  - 28
+IS  - 5
+SP  - 1043
+EP  - 1055
+SN  - 0941-0643
+UR  - http://dx.doi.org/10.1007/s00521-015-2121-7
+ER  - 
+
+TY  - JOUR
+TI  - A CNN-BiLSTM model with attention mechanism for earthquake prediction
+AU  - Kavianpour, Parisa
+AU  - Kavianpour, Mohammadreza
+AU  - Jahani, Ehsan
+AU  - Ramezani, Amin
+T2  - The Journal of Supercomputing
+DA  - 2023/05/26/
+PY  - 2023
+DO  - 10.1007/s11227-023-05369-y
+VL  - 79
+IS  - 17
+SP  - 19194
+EP  - 19226
+SN  - 0920-8542
+UR  - http://dx.doi.org/10.1007/s11227-023-05369-y
+ER  - 
+
+TY  - JOUR
+TI  - Soft-Computing Modelling of Seismicity in the Southern Hellenic Arc
+AU  - Konstantaras, A.
+AU  - Vallianatos, F.
+AU  - Varley, M.R.
+AU  - Makris, J.P.
+T2  - IEEE Geoscience and Remote Sensing Letters
+DA  - 2008/07//
+PY  - 2008
+DO  - 10.1109/lgrs.2008.916069
+VL  - 5
+IS  - 3
+SP  - 323
+EP  - 327
+SN  - 1545-598X
+UR  - http://dx.doi.org/10.1109/lgrs.2008.916069
+ER  - 
+
+TY  - CONF
+TI  - Earthquake Depth & Magnitude Prediction Model Using Artificial Neural Network
+AU  - Patil, Rhitik
+AU  - Patil, Sameer
+AU  - Todakari, Nilambari
+AU  - Devkar, Anita
+AU  - Raut, Roshani
+T2  - 2023 4th International Conference for Emerging Technology (INCET)
+DA  - 2023/05/26/
+PY  - 2023
+DO  - 10.1109/incet57972.2023.10170413
+PB  - IEEE
+UR  - http://dx.doi.org/10.1109/incet57972.2023.10170413
+ER  - 
+
+TY  - CONF
+TI  - Short-term prediction of the earthquake through Neural Networks and Meta-Learning
+AU  - Maya, Mario
+AU  - Yu, Wen
+T2  - 2019 16th International Conference on Electrical Engineering, Computing Science and Automatic Control (CCE)
+DA  - 2019/09//
+PY  - 2019
+DO  - 10.1109/iceee.2019.8884562
+PB  - IEEE
+UR  - http://dx.doi.org/10.1109/iceee.2019.8884562
+ER  - 
+
+TY  - CONF
+TI  - Customized explanation in expert system for earthquake prediction
+AU  - Zhang Bofeng
+AU  - Liu Yue
+T2  - 17th IEEE International Conference on Tools with Artificial Intelligence (ICTAI'05)
+DA  - 2005///
+PY  - 2005
+DO  - 10.1109/ictai.2005.54
+PB  - IEEE
+UR  - http://dx.doi.org/10.1109/ictai.2005.54
+ER  - 
+
+TY  - CONF
+TI  - Magnitude of Earthquake Prediction Using Neural Network
+AU  - Suratgar, Amir Abolfazl
+AU  - Setoudeh, Farbod
+AU  - Salemi, Amir Hossein
+AU  - Negarestani, Ali
+T2  - 2008 Fourth International Conference on Natural Computation
+DA  - 2008///
+PY  - 2008
+DO  - 10.1109/icnc.2008.781
+PB  - IEEE
+UR  - http://dx.doi.org/10.1109/icnc.2008.781
+ER  - 
+
+TY  - CONF
+TI  - KNN-Based Modeling and Its Application in Aftershock Prediction
+AU  - Li, Aiguo
+AU  - Kang, Li
+T2  - 2009 International Asia Symposium on Intelligent Interaction and Affective Computing
+DA  - 2009/12//
+PY  - 2009
+DO  - 10.1109/asia.2009.21
+PB  - IEEE
+UR  - http://dx.doi.org/10.1109/asia.2009.21
+ER  - 
+
+TY  - CONF
+TI  - The Application of RBF Neural Network in Earthquake Prediction
+AU  - Wang, Ying
+AU  - Chen, Yi
+AU  - Zhang, Jinkui
+T2  - 2009 Third International Conference on Genetic and Evolutionary Computing
+DA  - 2009/10//
+PY  - 2009
+DO  - 10.1109/wgec.2009.81
+PB  - IEEE
+UR  - http://dx.doi.org/10.1109/wgec.2009.81
+ER  - 
+
+TY  - CONF
+TI  - The prediction of the earthquake based on neutral networks
+AU  - Huang, Sheng-Zhong
+T2  - 2010 International Conference On Computer Design and Applications
+DA  - 2010/06//
+PY  - 2010
+DO  - 10.1109/iccda.2010.5541341
+PB  - IEEE
+UR  - http://dx.doi.org/10.1109/iccda.2010.5541341
+ER  - 
+
+TY  - CONF
+TI  - Notice of Retraction: Effective feature selection for short-term earthquake prediction using Neuro-Fuzzy classifier
+AU  - Leila Dehbozorgi
+AU  - Fardad Farokhi
+T2  - 2010 Second IITA International Conference on Geoscience and Remote Sensing
+DA  - 2010/08//
+PY  - 2010
+DO  - 10.1109/iita-grs.2010.5602504
+PB  - IEEE
+UR  - http://dx.doi.org/10.1109/iita-grs.2010.5602504
+ER  - 
+
+TY  - CONF
+TI  - Neural Network Model for Earthquake Prediction Using DMETER Data and Seismic Belt Information
+AU  - Xu, Fangzhou
+AU  - Song, Xianfeng
+AU  - Wang, Xinhong
+AU  - Su, Juexiao
+T2  - 2010 Second WRI Global Congress on Intelligent Systems
+DA  - 2010/12//
+PY  - 2010
+DO  - 10.1109/gcis.2010.237
+PB  - IEEE
+UR  - http://dx.doi.org/10.1109/gcis.2010.237
+ER  - 
+
+TY  - CONF
+TI  - Prediction of Earthquake Magnitude by an Improved ABC-MLP
+AU  - Shah, Habib
+AU  - Ghazali, Rozaida
+T2  - 2011 Developments in E-systems Engineering
+DA  - 2011/12//
+PY  - 2011
+DO  - 10.1109/dese.2011.37
+PB  - IEEE
+UR  - http://dx.doi.org/10.1109/dese.2011.37
+ER  - 
+
+TY  - CONF
+TI  - Artificial Neural Network attempts for long-term evaluation of great earthquakes
+AU  - Zhengru Tao
+T2  - 2015 11th International Conference on Natural Computation (ICNC)
+DA  - 2015/08//
+PY  - 2015
+DO  - 10.1109/icnc.2015.7378150
+PB  - IEEE
+UR  - http://dx.doi.org/10.1109/icnc.2015.7378150
+ER  - 
+
+TY  - CONF
+TI  - An improved PSO-BP neural network and its application to earthquake prediction
+AU  - Li, Cao
+AU  - Liu, Xiaoyu
+T2  - 2016 Chinese Control and Decision Conference (CCDC)
+DA  - 2016/05//
+PY  - 2016
+DO  - 10.1109/ccdc.2016.7531576
+PB  - IEEE
+UR  - http://dx.doi.org/10.1109/ccdc.2016.7531576
+ER  - 
+
+TY  - CONF
+TI  - Spatial analisys of magnitude distribution for earthquake prediction using neural network based on automatic clustering in Indonesia
+AU  - Shodiq, Mohammad Nur
+AU  - Kusuma, Dedy Hidayat
+AU  - Rifqi, Mirza Ghulam
+AU  - Barakbah, Ali Ridho
+AU  - Harsono, Tri
+T2  - 2017 International Electronics Symposium on Knowledge Creation and Intelligent Computing (IES-KCIC)
+DA  - 2017/09//
+PY  - 2017
+DO  - 10.1109/kcic.2017.8228594
+PB  - IEEE
+UR  - http://dx.doi.org/10.1109/kcic.2017.8228594
+ER  - 
+
+TY  - CONF
+TI  - Earthquake Aftershock Prediction Based Solely on Seismograph Data
+AU  - Lu, Yuching
+AU  - Sawada, Erika
+AU  - Chakraborty, Goutam
+T2  - 2019 IEEE International Conference on Big Data and Smart Computing (BigComp)
+DA  - 2019/02//
+PY  - 2019
+DO  - 10.1109/bigcomp.2019.8679491
+PB  - IEEE
+UR  - http://dx.doi.org/10.1109/bigcomp.2019.8679491
+ER  - 
+
+TY  - CONF
+TI  - Major earthquake event prediction using various machine learning algorithms
+AU  - Mallouhy, Roxane
+AU  - Jaoude, Chady Abou
+AU  - Guyeux, Christophe
+AU  - Makhoul, Abdallah
+T2  - 2019 International Conference on Information and Communication Technologies for Disaster Management (ICT-DM)
+DA  - 2019/12//
+PY  - 2019
+DO  - 10.1109/ict-dm47966.2019.9032983
+PB  - IEEE
+UR  - http://dx.doi.org/10.1109/ict-dm47966.2019.9032983
+ER  - 
+
+TY  - CONF
+TI  - DLEP: A Deep Learning Model for Earthquake Prediction
+AU  - Li, Rui
+AU  - Lu, Xiaobo
+AU  - Li, Shuowei
+AU  - Yang, Haipeng
+AU  - Qiu, Jianfeng
+AU  - Zhang, Lei
+T2  - 2020 International Joint Conference on Neural Networks (IJCNN)
+DA  - 2020/07//
+PY  - 2020
+DO  - 10.1109/ijcnn48605.2020.9207621
+PB  - IEEE
+UR  - http://dx.doi.org/10.1109/ijcnn48605.2020.9207621
+ER  - 
+
+TY  - CONF
+TI  - A Machine Learning Model to Predict Earthquake Utilizing Neural Network
+AU  - Roy, Tamal Joyti
+AU  - Mahmood, Md. Ashiq
+AU  - Roy, Diti
+T2  - 2021 International Conference on Computer, Communication, Chemical, Materials and Electronic Engineering (IC4ME2)
+DA  - 2021/12/26/
+PY  - 2021
+DO  - 10.1109/ic4me253898.2021.9768454
+PB  - IEEE
+UR  - http://dx.doi.org/10.1109/ic4me253898.2021.9768454
+ER  - 
+
+TY  - CONF
+TI  - Indonesian Seismic Mitigation using Earthquake Predicted Artificial Intelligence Model
+AU  - Wijaya, Usman
+AU  - Kusrini
+AU  - Muhammad, Alva Hendi
+T2  - 2022 5th International Conference on Information and Communications Technology (ICOIACT)
+DA  - 2022/08/24/
+PY  - 2022
+DO  - 10.1109/icoiact55506.2022.9972091
+PB  - IEEE
+UR  - http://dx.doi.org/10.1109/icoiact55506.2022.9972091
+ER  - 
+
+TY  - CONF
+TI  - Earthquake Magnitude Prediction in Chile Using Neural Network
+AU  - Bharadwaj, Rohit K
+AU  - Pasari, Sumanta
+AU  - Devi, Sonu
+T2  - 2022 IEEE 7th International Conference on Recent Advances and Innovations in Engineering (ICRAIE)
+DA  - 2022/12/01/
+PY  - 2022
+DO  - 10.1109/icraie56454.2022.10054323
+PB  - IEEE
+UR  - http://dx.doi.org/10.1109/icraie56454.2022.10054323
+ER  - 
+
+TY  - CONF
+TI  - Nonlinear Autoregressive Exogenous Neural Network for Earthquake Prediction in Indonesia
+AU  - Hasanah, Nur
+AU  - Man, Zhihong
+AU  - Cao, Zhenwei
+AU  - Zheng, Jinchuan
+T2  - 2022 International Conference on Advanced Mechatronic Systems (ICAMechS)
+DA  - 2022/12/17/
+PY  - 2022
+DO  - 10.1109/icamechs57222.2022.10003346
+PB  - IEEE
+UR  - http://dx.doi.org/10.1109/icamechs57222.2022.10003346
+ER  - 
+
+TY  - CONF
+TI  - Prediction of Earthquake Using Machine Learning Algorithms
+AU  - Manral, Gaurav Singh
+AU  - Chaudhary, Alka
+T2  - 2023 4th International Conference on Intelligent Engineering and Management (ICIEM)
+DA  - 2023/05/09/
+PY  - 2023
+DO  - 10.1109/iciem59379.2023.10166658
+PB  - IEEE
+UR  - http://dx.doi.org/10.1109/iciem59379.2023.10166658
+ER  - 
+
+TY  - CONF
+TI  - Evolutionary Parameter Optimization on Neural Network Models for Earthquake Prediction
+AU  - Gunawan
+AU  - Andriani, Wresti
+AU  - Purnomo, Hindriyanto Dwi
+AU  - Sembiring, Irwan
+AU  - Iriani, Ade
+T2  - 2023 International Conference on Computer Science, Information Technology and Engineering (ICCoSITE)
+DA  - 2023/02/16/
+PY  - 2023
+DO  - 10.1109/iccosite57641.2023.10127850
+PB  - IEEE
+UR  - http://dx.doi.org/10.1109/iccosite57641.2023.10127850
+ER  - 
+
+TY  - CONF
+TI  - Deep Learning-Based Earthquake Prediction Technique Using Seismic Data
+AU  - Elbes, Mohammed
+AU  - AlZu'bi, Shadi
+AU  - Kanan, Tarek
+T2  - 2023 International Conference on Multimedia Computing, Networking and Applications (MCNA)
+DA  - 2023/06/19/
+PY  - 2023
+DO  - 10.1109/mcna59361.2023.10185869
+PB  - IEEE
+UR  - http://dx.doi.org/10.1109/mcna59361.2023.10185869
+ER  - 
+
+TY  - JOUR
+TI  - The Data Mining Technology of Particle Swarm Optimization Algorithm in Earthquake Prediction
+AU  - Zhang, Xiao Yu
+AU  - Li, Xiang
+AU  - Lin, Xiao
+T2  - Advanced Materials Research
+DA  - 2014/07//
+PY  - 2014
+DO  - 10.4028/www.scientific.net/amr.989-994.1570
+VL  - 989-994
+SP  - 1570
+EP  - 1573
+SN  - 1662-8985
+UR  - http://dx.doi.org/10.4028/www.scientific.net/amr.989-994.1570
+ER  - 
+
+TY  - JOUR
+TI  - A Deeper Look into ‘Deep Learning of Aftershock Patterns Following Large Earthquakes’: Illustrating First Principles in Neural Network Physical Interpretability
+AU  - Mignan, Arnaud
+AU  - Broccardo, Marco
+T2  - Advances in Computational Intelligence
+DA  - 2019///
+PY  - 2019
+DO  - 10.1007/978-3-030-20521-8_1
+SP  - 3
+EP  - 14
+SN  - 0302-9743
+UR  - http://dx.doi.org/10.1007/978-3-030-20521-8_1
+ER  - 
+
+TY  - JOUR
+TI  - Applied Research Of BP Neural Network In Earthquake Prediction
+AU  - Hu, Wu Sheng
+AU  - Nie, Hong Lin
+AU  - Wang, Hao
+T2  - Applied Mechanics and Materials
+DA  - 2012/10//
+PY  - 2012
+DO  - 10.4028/www.scientific.net/amm.204-208.2449
+VL  - 204-208
+SP  - 2449
+EP  - 2454
+SN  - 1662-7482
+UR  - http://dx.doi.org/10.4028/www.scientific.net/amm.204-208.2449
+ER  - 
+
+TY  - JOUR
+TI  - Regional Short-Term Earthquake Prediction Model Based on BP Neural Network
+AU  - Hu, Wu Sheng
+AU  - Wang, Hao
+AU  - Nie, Hong Lin
+T2  - Applied Mechanics and Materials
+DA  - 2012/05//
+PY  - 2012
+DO  - 10.4028/www.scientific.net/amm.166-169.2309
+VL  - 166-169
+SP  - 2309
+EP  - 2314
+SN  - 1662-7482
+UR  - http://dx.doi.org/10.4028/www.scientific.net/amm.166-169.2309
+ER  - 
+
+TY  - JOUR
+TI  - Artificial neural network model for earthquake prediction with radon monitoring
+AU  - Külahcı, Fatih
+AU  - İnceöz, Murat
+AU  - Doğru, Mahmut
+AU  - Aksoy, Ercan
+AU  - Baykara, Oktay
+T2  - Applied Radiation and Isotopes
+DA  - 2009/01//
+PY  - 2009
+DO  - 10.1016/j.apradiso.2008.08.003
+VL  - 67
+IS  - 1
+SP  - 212
+EP  - 219
+SN  - 0969-8043
+UR  - http://dx.doi.org/10.1016/j.apradiso.2008.08.003
+ER  - 
+
+TY  - JOUR
+TI  - A Generalized Deep Learning Approach to Seismic Activity Prediction
+AU  - Muhammad, Dost
+AU  - Ahmad, Iftikhar
+AU  - Khalil, Muhammad Imran
+AU  - Khalil, Wajeeha
+AU  - Ahmad, Muhammad Ovais
+T2  - Applied Sciences
+DA  - 2023/01/26/
+PY  - 2023
+DO  - 10.3390/app13031598
+VL  - 13
+IS  - 3
+SP  - 1598
+SN  - 2076-3417
+UR  - http://dx.doi.org/10.3390/app13031598
+ER  - 
+
+TY  - JOUR
+TI  - Earthquake Prediction for the Düzce Province in the Marmara Region Using Artificial Intelligence
+AU  - Pura, Turgut
+AU  - Güneş, Peri
+AU  - Güneş, Ali
+AU  - Hameed, Ali Alaa
+T2  - Applied Sciences
+DA  - 2023/07/27/
+PY  - 2023
+DO  - 10.3390/app13158642
+VL  - 13
+IS  - 15
+SP  - 8642
+SN  - 2076-3417
+UR  - http://dx.doi.org/10.3390/app13158642
+ER  - 
+
+TY  - JOUR
+TI  - Large Earthquake Magnitude Prediction in Chile with Imbalanced Classifiers and Ensemble Learning
+AU  - Fernández-Gómez, Manuel
+AU  - Asencio-Cortés, Gualberto
+AU  - Troncoso, Alicia
+AU  - Martínez-Álvarez, Francisco
+T2  - Applied Sciences
+DA  - 2017/06/16/
+PY  - 2017
+DO  - 10.3390/app7060625
+VL  - 7
+IS  - 6
+SP  - 625
+SN  - 2076-3417
+UR  - http://dx.doi.org/10.3390/app7060625
+ER  - 
+
+TY  - JOUR
+TI  - Small Earthquakes Can Help Predict Large Earthquakes: A Machine Learning Perspective
+AU  - Wang, Xi
+AU  - Zhong, Zeyuan
+AU  - Yao, Yuechen
+AU  - Li, Zexu
+AU  - Zhou, Shiyong
+AU  - Jiang, Changsheng
+AU  - Jia, Ke
+T2  - Applied Sciences
+DA  - 2023/05/24/
+PY  - 2023
+DO  - 10.3390/app13116424
+VL  - 13
+IS  - 11
+SP  - 6424
+SN  - 2076-3417
+UR  - http://dx.doi.org/10.3390/app13116424
+ER  - 
+
+TY  - JOUR
+TI  - Neural networks to predict earthquakes in Chile
+AU  - Reyes, J.
+AU  - Morales-Esteban, A.
+AU  - Martínez-Álvarez, F.
+T2  - Applied Soft Computing
+DA  - 2013/02//
+PY  - 2013
+DO  - 10.1016/j.asoc.2012.10.014
+VL  - 13
+IS  - 2
+SP  - 1314
+EP  - 1328
+SN  - 1568-4946
+UR  - http://dx.doi.org/10.1016/j.asoc.2012.10.014
+ER  - 
+
+TY  - JOUR
+TI  - A BP Artificial Neural Network Model for Earthquake Magnitude Prediction in Himalayas, India
+AU  - Narayanakumar, S.
+AU  - Raja, K.
+T2  - Circuits and Systems
+DA  - 2016///
+PY  - 2016
+DO  - 10.4236/cs.2016.711294
+VL  - 07
+IS  - 11
+SP  - 3456
+EP  - 3468
+SN  - 2153-1285
+UR  - http://dx.doi.org/10.4236/cs.2016.711294
+ER  - 
+
+TY  - JOUR
+TI  - Recurrent Neural Network for Approximate Earthquake Time and Location Prediction Using Multiple Seismicity Indicators
+AU  - Panakkat, Ashif
+AU  - Adeli, Hojjat
+T2  - Computer-Aided Civil and Infrastructure Engineering
+DA  - 2009/03/11/
+PY  - 2009
+DO  - 10.1111/j.1467-8667.2009.00595.x
+VL  - 24
+IS  - 4
+SP  - 280
+EP  - 292
+SN  - 1093-9687
+UR  - http://dx.doi.org/10.1111/j.1467-8667.2009.00595.x
+ER  - 
+
+TY  - JOUR
+TI  - A novel tree-based algorithm to discover seismic patterns in earthquake catalogs
+AU  - Florido, E.
+AU  - Asencio–Cortés, G.
+AU  - Aznarte, J.L.
+AU  - Rubio-Escudero, C.
+AU  - Martínez–Álvarez, F.
+T2  - Computers & Geosciences
+DA  - 2018/06//
+PY  - 2018
+DO  - 10.1016/j.cageo.2018.03.005
+VL  - 115
+SP  - 96
+EP  - 104
+SN  - 0098-3004
+UR  - http://dx.doi.org/10.1016/j.cageo.2018.03.005
+ER  - 
+
+TY  - JOUR
+TI  - Detecting precursory patterns to enhance earthquake prediction in Chile
+AU  - Florido, E.
+AU  - Martínez-Álvarez, F.
+AU  - Morales-Esteban, A.
+AU  - Reyes, J.
+AU  - Aznarte-Mellado, J.L.
+T2  - Computers & Geosciences
+DA  - 2015/03//
+PY  - 2015
+DO  - 10.1016/j.cageo.2014.12.002
+VL  - 76
+SP  - 112
+EP  - 120
+SN  - 0098-3004
+UR  - http://dx.doi.org/10.1016/j.cageo.2014.12.002
+ER  - 
+
+TY  - JOUR
+TI  - Earthquake prediction in California using regression algorithms and cloud-based big data infrastructure
+AU  - Asencio–Cortés, G.
+AU  - Morales–Esteban, A.
+AU  - Shang, X.
+AU  - Martínez–Álvarez, F.
+T2  - Computers & Geosciences
+DA  - 2018/06//
+PY  - 2018
+DO  - 10.1016/j.cageo.2017.10.011
+VL  - 115
+SP  - 198
+EP  - 210
+SN  - 0098-3004
+UR  - http://dx.doi.org/10.1016/j.cageo.2017.10.011
+ER  - 
+
+TY  - JOUR
+TI  - Model dissection from earthquake time series: A comparative analysis using modern non-linear forecasting and artificial neural network approaches
+AU  - Sri Lakshmi, S.
+AU  - Tiwari, R.K.
+T2  - Computers & Geosciences
+DA  - 2009/02//
+PY  - 2009
+DO  - 10.1016/j.cageo.2007.11.011
+VL  - 35
+IS  - 2
+SP  - 191
+EP  - 204
+SN  - 0098-3004
+UR  - http://dx.doi.org/10.1016/j.cageo.2007.11.011
+ER  - 
+
+TY  - JOUR
+TI  - Multi-Step Forecasting of Earthquake Magnitude Using Meta-Learning Based Neural Networks
+AU  - Maya, Mario
+AU  - Yu, Wen
+AU  - Telesca, Luciano
+T2  - Cybernetics and Systems
+DA  - 2021/10/12/
+PY  - 2021
+DO  - 10.1080/01969722.2021.1989170
+VL  - 53
+IS  - 6
+SP  - 563
+EP  - 580
+SN  - 0196-9722
+UR  - http://dx.doi.org/10.1080/01969722.2021.1989170
+ER  - 
+
+TY  - JOUR
+TI  - Earthquake Forecasting in the Himalayas Artificial Neural Networks
+AU  - Ahuja, Arnav
+AU  - Pasari, Sumanta
+T2  - Disaster Management in the Complex Himalayan Terrains
+DA  - 2022///
+PY  - 2022
+DO  - 10.1007/978-3-030-89308-8_10
+SP  - 141
+EP  - 152
+SN  - 2366-8865
+UR  - http://dx.doi.org/10.1007/978-3-030-89308-8_10
+ER  - 
+
+TY  - JOUR
+TI  - Application of neural network and ANFIS model for earthquake occurrence in Iran
+AU  - Zamani, Ahmad
+AU  - Sorbi, Mohammad Reza
+AU  - Safavi, Ali Akbar
+T2  - Earth Science Informatics
+DA  - 2013/04/04/
+PY  - 2013
+DO  - 10.1007/s12145-013-0112-8
+VL  - 6
+IS  - 2
+SP  - 71
+EP  - 85
+SN  - 1865-0473
+UR  - http://dx.doi.org/10.1007/s12145-013-0112-8
+ER  - 
+
+TY  - JOUR
+TI  - Prediction of earthquake magnitude using adaptive neuro fuzzy inference system
+AU  - Pandit, Amiya
+AU  - Biswal, Kishore Chandra
+T2  - Earth Science Informatics
+DA  - 2019/07/27/
+PY  - 2019
+DO  - 10.1007/s12145-019-00397-w
+VL  - 12
+IS  - 4
+SP  - 513
+EP  - 524
+SN  - 1865-0473
+UR  - http://dx.doi.org/10.1007/s12145-019-00397-w
+ER  - 
+
+TY  - JOUR
+TI  - Application of support vector machine to synthetic earthquake prediction
+AU  - Jiang, Chun
+AU  - Wei, Xueli
+AU  - Cui, Xiaofeng
+AU  - You, Dexiang
+T2  - Earthquake Science
+DA  - 2009/06//
+PY  - 2009
+DO  - 10.1007/s11589-009-0315-8
+VL  - 22
+IS  - 3
+SP  - 315
+EP  - 320
+SN  - 1674-4519
+UR  - http://dx.doi.org/10.1007/s11589-009-0315-8
+ER  - 
+
+TY  - JOUR
+TI  - A Particle Swarm Optimization-Backpropagation (PSO-BP) Model for the Prediction of Earthquake in Japan
+AU  - Abraham, Abey
+AU  - Rohini, V.
+T2  - Emerging Research in Computing, Information, Communication and Applications
+DA  - 2019///
+PY  - 2019
+DO  - 10.1007/978-981-13-5953-8_36
+SP  - 435
+EP  - 441
+SN  - 2194-5357
+UR  - http://dx.doi.org/10.1007/978-981-13-5953-8_36
+ER  - 
+
+TY  - JOUR
+TI  - Artificial intelligence based real-time earthquake prediction
+AU  - Bhatia, Munish
+AU  - Ahanger, Tariq Ahamed
+AU  - Manocha, Ankush
+T2  - Engineering Applications of Artificial Intelligence
+DA  - 2023/04//
+PY  - 2023
+DO  - 10.1016/j.engappai.2023.105856
+VL  - 120
+SP  - 105856
+SN  - 0952-1976
+UR  - http://dx.doi.org/10.1016/j.engappai.2023.105856
+ER  - 
+
+TY  - JOUR
+TI  - EPT: A data-driven transformer model for earthquake prediction
+AU  - Zhang, Bo
+AU  - Hu, Ziang
+AU  - Wu, Pin
+AU  - Huang, Haiwang
+AU  - Xiang, Jiansheng
+T2  - Engineering Applications of Artificial Intelligence
+DA  - 2023/08//
+PY  - 2023
+DO  - 10.1016/j.engappai.2023.106176
+VL  - 123
+SP  - 106176
+SN  - 0952-1976
+UR  - http://dx.doi.org/10.1016/j.engappai.2023.106176
+ER  - 
+
+TY  - JOUR
+TI  - Earthquake prediction with meteorological data by particle filter-based support vector regression
+AU  - Hajikhodaverdikhan, Pouria
+AU  - Nazari, Mousa
+AU  - Mohsenizadeh, Mehrdad
+AU  - Shamshirband, Shahaboddin
+AU  - Chau, Kwok-wing
+T2  - Engineering Applications of Computational Fluid Mechanics
+DA  - 2018/01//
+PY  - 2018
+DO  - 10.1080/19942060.2018.1512010
+VL  - 12
+IS  - 1
+SP  - 679
+EP  - 688
+SN  - 1994-2060
+UR  - http://dx.doi.org/10.1080/19942060.2018.1512010
+ER  - 
+
+TY  - JOUR
+TI  - Application of rough set and decision tree for characterization of premonitory factors of low seismic activity
+AU  - Sikder, Iftikhar U.
+AU  - Munakata, Toshinori
+T2  - Expert Systems with Applications
+DA  - 2009/01//
+PY  - 2009
+DO  - 10.1016/j.eswa.2007.09.032
+VL  - 36
+IS  - 1
+SP  - 102
+EP  - 110
+SN  - 0957-4174
+UR  - http://dx.doi.org/10.1016/j.eswa.2007.09.032
+ER  - 
+
+TY  - JOUR
+TI  - Artificial neural networks for earthquake prediction using time series magnitude data or Seismic Electric Signals
+AU  - Moustra, Maria
+AU  - Avraamides, Marios
+AU  - Christodoulou, Chris
+T2  - Expert Systems with Applications
+DA  - 2011/11//
+PY  - 2011
+DO  - 10.1016/j.eswa.2011.05.043
+VL  - 38
+IS  - 12
+SP  - 15032
+EP  - 15039
+SN  - 0957-4174
+UR  - http://dx.doi.org/10.1016/j.eswa.2011.05.043
+ER  - 
+
+TY  - JOUR
+TI  - Forecasting the Preparatory Phase of Induced Earthquakes by Recurrent Neural Network
+AU  - Iaccarino, Antonio Giovanni
+AU  - Picozzi, Matteo
+DA  - 2021/03/03/
+PY  - 2021
+DO  - 10.5194/egusphere-egu21-4321
+UR  - http://dx.doi.org/10.5194/egusphere-egu21-4321
+ER  - 
+
+TY  - JOUR
+TI  - Climatic and seismic data-driven deep learning model for earthquake magnitude prediction
+AU  - Sadhukhan, Bikash
+AU  - Chakraborty, Shayak
+AU  - Mukherjee, Somenath
+AU  - Samanta, Raj Kumar
+T2  - Frontiers in Earth Science
+DA  - 2023/02/20/
+PY  - 2023
+DO  - 10.3389/feart.2023.1082832
+VL  - 11
+SN  - 2296-6463
+UR  - http://dx.doi.org/10.3389/feart.2023.1082832
+ER  - 
+
+TY  - JOUR
+TI  - LSTM-Based Deep Learning Methods for Prediction of Earthquakes Using Ionospheric Data
+AU  - ABRİ, Rayan
+AU  - ARTUNER, Harun
+T2  - Gazi University Journal of Science
+DA  - 2022/12/01/
+PY  - 2022
+DO  - 10.35378/gujs.950387
+VL  - 35
+IS  - 4
+SP  - 1417
+EP  - 1431
+SN  - 2147-1762
+UR  - http://dx.doi.org/10.35378/gujs.950387
+ER  - 
+
+TY  - JOUR
+TI  - Using Deep Learning for Flexible and Scalable Earthquake Forecasting
+AU  - Dascher‐Cousineau, Kelian
+AU  - Shchur, Oleksandr
+AU  - Brodsky, Emily E.
+AU  - Günnemann, Stephan
+T2  - Geophysical Research Letters
+DA  - 2023/08/31/
+PY  - 2023
+DO  - 10.1029/2023gl103909
+VL  - 50
+IS  - 17
+SN  - 0094-8276
+UR  - http://dx.doi.org/10.1029/2023gl103909
+ER  - 
+
+TY  - JOUR
+TI  - Earthquake risk assessment in NE India using deep learning and geospatial analysis
+AU  - Jena, Ratiranjan
+AU  - Pradhan, Biswajeet
+AU  - Naik, Sambit Prasanajit
+AU  - Alamri, Abdullah M.
+T2  - Geoscience Frontiers
+DA  - 2021/05//
+PY  - 2021
+DO  - 10.1016/j.gsf.2020.11.007
+VL  - 12
+IS  - 3
+SP  - 101110
+SN  - 1674-9871
+UR  - http://dx.doi.org/10.1016/j.gsf.2020.11.007
+ER  - 
+
+TY  - JOUR
+TI  - A new method to promptly evaluate spatial earthquake probability mapping using an explainable artificial intelligence (XAI) model
+AU  - Jena, Ratiranjan
+AU  - Pradhan, Biswajeet
+AU  - Gite, Shilpa
+AU  - Alamri, Abdullah
+AU  - Park, Hyuck-Jin
+T2  - Gondwana Research
+DA  - 2023/11//
+PY  - 2023
+DO  - 10.1016/j.gr.2022.10.003
+VL  - 123
+SP  - 54
+EP  - 67
+SN  - 1342-937X
+UR  - http://dx.doi.org/10.1016/j.gr.2022.10.003
+ER  - 
+
+TY  - JOUR
+TI  - Anomalies Prediction in Radon Time Series for Earthquake Likelihood Using Machine Learning-Based Ensemble Model
+AU  - Mir, Adil Aslam
+AU  - Celebi, Fatih Vehbi
+AU  - Alsolai, Hadeel
+AU  - Qureshi, Shahzad Ahmad
+AU  - Rafique, Muhammad
+AU  - Alzahrani, Jaber S.
+AU  - Mahgoub, Hany
+AU  - Hamza, Manar Ahmed
+T2  - IEEE Access
+DA  - 2022///
+PY  - 2022
+DO  - 10.1109/access.2022.3163291
+VL  - 10
+SP  - 37984
+EP  - 37999
+SN  - 2169-3536
+UR  - http://dx.doi.org/10.1109/access.2022.3163291
+ER  - 
+
+TY  - JOUR
+TI  - Determining Neuronal Number in Each Hidden Layer Using Earthquake Catalogues as Training Data in Training an Embedded Back Propagation Neural Network for Predicting Earthquake Magnitude
+AU  - Lin, Jyh-Woei
+AU  - Chao, Chun-Tang
+AU  - Chiou, Juing-Shian
+T2  - IEEE Access
+DA  - 2018///
+PY  - 2018
+DO  - 10.1109/access.2018.2870189
+VL  - 6
+SP  - 52582
+EP  - 52597
+SN  - 2169-3536
+UR  - http://dx.doi.org/10.1109/access.2018.2870189
+ER  - 
+
+TY  - JOUR
+TI  - Recurrent Convolutional Neural Networks Help to Predict Location of Earthquakes
+AU  - Kail, Roman
+AU  - Burnaev, Evgeny
+AU  - Zaytsev, Alexey
+T2  - IEEE Geoscience and Remote Sensing Letters
+DA  - 2022///
+PY  - 2022
+DO  - 10.1109/lgrs.2021.3107998
+VL  - 19
+SP  - 1
+EP  - 5
+SN  - 1545-598X
+UR  - http://dx.doi.org/10.1109/lgrs.2021.3107998
+ER  - 
+
+TY  - JOUR
+TI  - Earthquake Prediction Based on Spatio-Temporal Data Mining: An LSTM Network Approach
+AU  - Wang, Qianlong
+AU  - Guo, Yifan
+AU  - Yu, Lixing
+AU  - Li, Pan
+T2  - IEEE Transactions on Emerging Topics in Computing
+DA  - 2020/01/01/
+PY  - 2020
+DO  - 10.1109/tetc.2017.2699169
+VL  - 8
+IS  - 1
+SP  - 148
+EP  - 158
+SN  - 2168-6750
+UR  - http://dx.doi.org/10.1109/tetc.2017.2699169
+ER  - 
+
+TY  - JOUR
+TI  - A Spatiotemporal Model for Global Earthquake Prediction Based on Convolutional LSTM
+AU  - Zhang, Zhongchang
+AU  - Wang, Yubing
+T2  - IEEE Transactions on Geoscience and Remote Sensing
+DA  - 2023///
+PY  - 2023
+DO  - 10.1109/tgrs.2023.3302316
+VL  - 61
+SP  - 1
+EP  - 12
+SN  - 0196-2892
+UR  - http://dx.doi.org/10.1109/tgrs.2023.3302316
+ER  - 
+
+TY  - JOUR
+TI  - Adaptive neural nets for generation of artificial earthquake precursors
+AU  - Aminzadeh, F.
+AU  - Katz, S.
+AU  - Aki, K.
+T2  - IEEE Transactions on Geoscience and Remote Sensing
+DA  - 1994///
+PY  - 1994
+DO  - 10.1109/36.338361
+VL  - 32
+IS  - 6
+SP  - 1139
+EP  - 1143
+SN  - 0196-2892
+UR  - http://dx.doi.org/10.1109/36.338361
+ER  - 
+
+TY  - JOUR
+TI  - Forecasting Earthquake Magnitude and Epicenter by Incorporating Spatiotemporal Priors Into Deep Neural Networks
+AU  - Liu, Jie
+AU  - Zhang, Tong
+AU  - Gao, Chulin
+AU  - Wang, Peixiao
+T2  - IEEE Transactions on Geoscience and Remote Sensing
+DA  - 2023///
+PY  - 2023
+DO  - 10.1109/tgrs.2023.3281784
+VL  - 61
+SP  - 1
+EP  - 13
+SN  - 0196-2892
+UR  - http://dx.doi.org/10.1109/tgrs.2023.3281784
+ER  - 
+
+TY  - JOUR
+TI  - Large Earthquake Occurrence Estimation Based on Radial Basis Function Neural Networks
+AU  - Alexandridis, Alex
+AU  - Chondrodima, Eva
+AU  - Efthimiou, Evangelos
+AU  - Papadakis, Giorgos
+AU  - Vallianatos, Filippos
+AU  - Triantis, Dimos
+T2  - IEEE Transactions on Geoscience and Remote Sensing
+DA  - 2014/09//
+PY  - 2014
+DO  - 10.1109/tgrs.2013.2288979
+VL  - 52
+IS  - 9
+SP  - 5443
+EP  - 5453
+SN  - 0196-2892
+UR  - http://dx.doi.org/10.1109/tgrs.2013.2288979
+ER  - 
+
+TY  - CONF
+TI  - Chaotic analysis of seismic time series and short term forecasting using neural networks
+AU  - Plagianakos, V.P.
+AU  - Tzanaki, E.
+T2  - IJCNN'01. International Joint Conference on Neural Networks. Proceedings (Cat. No.01CH37222)
+DO  - 10.1109/ijcnn.2001.938398
+PB  - IEEE
+UR  - http://dx.doi.org/10.1109/ijcnn.2001.938398
+ER  - 
+
+TY  - JOUR
+TI  - Earthquake Prediction Based on Levenberg-Marquardt Algorithm Constrained Back-Propagation Neural Network Using DEMETER Data
+AU  - Ma, Lingling
+AU  - Xu, Fangzhou
+AU  - Wang, Xinhong
+AU  - Tang, Lingli
+T2  - Knowledge Science, Engineering and Management
+DA  - 2010///
+PY  - 2010
+DO  - 10.1007/978-3-642-15280-1_57
+SP  - 591
+EP  - 596
+SN  - 0302-9743
+UR  - http://dx.doi.org/10.1007/978-3-642-15280-1_57
+ER  - 
+
+TY  - CONF
+TI  - Earthquake Magnitude Prediction using Deep Learning Techniques
+AU  - Reddy, Raghavendra
+AU  - Monisha, V
+AU  - Ramya, P
+AU  - Deeksha, H C
+AU  - Lavanya, A
+T2  - 2023 International Conference on Sustainable Computing and Smart Systems (ICSCSS)
+DA  - 2023/06/14/
+PY  - 2023
+DO  - 10.1109/icscss57650.2023.10169746
+PB  - IEEE
+UR  - http://dx.doi.org/10.1109/icscss57650.2023.10169746
+ER  - 
+
+TY  - JOUR
+TI  - Earthquake trend prediction using long short-term memory RNN
+AU  - Bhandarkar, Tanvi
+AU  - K, Vardaan
+AU  - Satish, Nikhil
+AU  - Sridhar, S.
+AU  - Sivakumar, R.
+AU  - Ghosh, Snehasish
+T2  - International Journal of Electrical and Computer Engineering (IJECE)
+DA  - 2019/04/01/
+PY  - 2019
+DO  - 10.11591/ijece.v9i2.pp1304-1312
+VL  - 9
+IS  - 2
+SP  - 1304
+SN  - 2088-8708
+UR  - http://dx.doi.org/10.11591/ijece.v9i2.pp1304-1312
+ER  - 
+
+TY  - JOUR
+TI  - LSTM-based earthquake prediction: enhanced time feature and data representation
+AU  - Belouadha, Fatima Zahra
+AU  - Kabbaj, Mohammed Issam
+AU  - Berhich, Asmae
+T2  - International Journal of High Performance Systems Architecture
+DA  - 2021///
+PY  - 2021
+DO  - 10.1504/ijhpsa.2021.10038193
+VL  - 10
+IS  - 1
+SP  - 1
+SN  - 1751-6528
+UR  - http://dx.doi.org/10.1504/ijhpsa.2021.10038193
+ER  - 
+
+TY  - JOUR
+TI  - Neural Network for Earthquake Prediction Based on Automatic Clustering in Indonesia
+AU  - Shodiq, Mohammad Nur
+AU  - Kusuma, Dedy Hidayat
+AU  - Rifqi, Mirza Ghulam
+AU  - Barakbah, Ali Ridho
+AU  - Harsono, Tri
+T2  - JOIV : International Journal on Informatics Visualization
+DA  - 2018/02/08/
+PY  - 2018
+DO  - 10.30630/joiv.2.1.106
+VL  - 2
+IS  - 1
+SP  - 37
+SN  - 2549-9904
+UR  - http://dx.doi.org/10.30630/joiv.2.1.106
+ER  - 
+
+TY  - JOUR
+TI  - NEURAL NETWORK MODELS FOR EARTHQUAKE MAGNITUDE PREDICTION USING MULTIPLE SEISMICITY INDICATORS
+AU  - PANAKKAT, ASHIF
+AU  - ADELI, HOJJAT
+T2  - International Journal of Neural Systems
+DA  - 2007/02//
+PY  - 2007
+DO  - 10.1142/s0129065707000890
+VL  - 17
+IS  - 01
+SP  - 13
+EP  - 33
+SN  - 0129-0657
+UR  - http://dx.doi.org/10.1142/s0129065707000890
+ER  - 
+
+TY  - JOUR
+TI  - Fuzzy Descriptor Models for Earthquake Time Prediction Using Seismic Time Series
+AU  - Bahrami, Behzad
+AU  - Shafiee, Masoud
+T2  - International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems
+DA  - 2015/08//
+PY  - 2015
+DO  - 10.1142/s0218488515500221
+VL  - 23
+IS  - 04
+SP  - 505
+EP  - 519
+SN  - 0218-4885
+UR  - http://dx.doi.org/10.1142/s0218488515500221
+ER  - 
+
+TY  - JOUR
+TI  - Adaptive Neural Fuzzy Inference System and Automatic Clustering for Earthquake Prediction in Indonesia
+AU  - Shodiq, Mohammad Nur
+AU  - Kusuma, Dedy Hidayat
+AU  - Rifqi, Mirza Ghulam
+AU  - Barakbah, Ali Ridho
+AU  - Harsono, Tri
+T2  - JOIV : International Journal on Informatics Visualization
+DA  - 2019/01/09/
+PY  - 2019
+DO  - 10.30630/joiv.3.1.204
+VL  - 3
+IS  - 1
+SN  - 2549-9904
+UR  - http://dx.doi.org/10.30630/joiv.3.1.204
+ER  - 
+
+TY  - JOUR
+TI  - Constructive Ensemble of RBF Neural Networks and Its Application to Earthquake Prediction
+AU  - Liu, Yue
+AU  - Li, Yuan
+AU  - Li, Guozheng
+AU  - Zhang, Bofeng
+AU  - Wu, Genfeng
+T2  - Advances in Neural Networks — ISNN 2005
+DA  - 2005///
+PY  - 2005
+DO  - 10.1007/11427391_85
+SP  - 532
+EP  - 537
+SN  - 0302-9743
+UR  - http://dx.doi.org/10.1007/11427391_85
+ER  - 
+
+TY  - JOUR
+TI  - Spatial Prediction of Aftershocks Triggered by a Major Earthquake: A Binary Machine Learning Perspective
+AU  - Karimzadeh, Sadra
+AU  - Matsuoka, Masashi
+AU  - Kuang, Jianming
+AU  - Ge, Linlin
+T2  - ISPRS International Journal of Geo-Information
+DA  - 2019/10/22/
+PY  - 2019
+DO  - 10.3390/ijgi8100462
+VL  - 8
+IS  - 10
+SP  - 462
+SN  - 2220-9964
+UR  - http://dx.doi.org/10.3390/ijgi8100462
+ER  - 
+
+TY  - JOUR
+TI  - Earthquake magnitude prediction by adaptive neuro-fuzzy inference system (ANFIS) based on fuzzy C-means algorithm
+AU  - Mirrashid, Masoomeh
+T2  - Natural Hazards
+DA  - 2014/06/06/
+PY  - 2014
+DO  - 10.1007/s11069-014-1264-7
+VL  - 74
+IS  - 3
+SP  - 1577
+EP  - 1593
+SN  - 0921-030X
+UR  - http://dx.doi.org/10.1007/s11069-014-1264-7
+ER  - 
+
+TY  - JOUR
+TI  - Seismic Events Prediction Using Deep Temporal Convolution Networks
+AU  - Geng, Yue
+AU  - Su, Lingling
+AU  - Jia, Yunhong
+AU  - Han, Ce
+T2  - Journal of Electrical and Computer Engineering
+DA  - 2019/04/02/
+PY  - 2019
+DO  - 10.1155/2019/7343784
+VL  - 2019
+SP  - 1
+EP  - 14
+SN  - 2090-0147
+UR  - http://dx.doi.org/10.1155/2019/7343784
+ER  - 
+
+TY  - JOUR
+TI  - Layered neural networks based analysis of radon concentration and environmental parameters in earthquake prediction
+AU  - Negarestani, A
+AU  - Setayeshi, S
+AU  - Ghannadi-Maragheh, M
+AU  - Akashe, B
+T2  - Journal of Environmental Radioactivity
+DA  - 2002/01//
+PY  - 2002
+DO  - 10.1016/s0265-931x(01)00165-5
+VL  - 62
+IS  - 3
+SP  - 225
+EP  - 233
+SN  - 0265-931X
+UR  - http://dx.doi.org/10.1016/s0265-931x(01)00165-5
+ER  - 
+
+TY  - JOUR
+TI  - A neural-network model for earthquake occurrence
+AU  - Bodri, Bertalan
+T2  - Journal of Geodynamics
+DA  - 2001/10//
+PY  - 2001
+DO  - 10.1016/s0264-3707(01)00039-4
+VL  - 32
+IS  - 3
+SP  - 289
+EP  - 310
+SN  - 0264-3707
+UR  - http://dx.doi.org/10.1016/s0264-3707(01)00039-4
+ER  - 
+
+TY  - JOUR
+TI  - Earthquakes magnitude predication using artificial neural network in northern Red Sea area
+AU  - Alarifi, Abdulrahman S.N.
+AU  - Alarifi, Nassir S.N.
+AU  - Al-Humidan, Saad
+T2  - Journal of King Saud University - Science
+DA  - 2012/10//
+PY  - 2012
+DO  - 10.1016/j.jksus.2011.05.002
+VL  - 24
+IS  - 4
+SP  - 301
+EP  - 313
+SN  - 1018-3647
+UR  - http://dx.doi.org/10.1016/j.jksus.2011.05.002
+ER  - 
+
+TY  - JOUR
+TI  - Seismic activity prediction of the northern part of Pakistan from novel machine learning technique
+AU  - Aslam, Bilal
+AU  - Zafar, Adeel
+AU  - Khalil, Umer
+AU  - Azam, Umar
+T2  - Journal of Seismology
+DA  - 2021/01/31/
+PY  - 2021
+DO  - 10.1007/s10950-021-09982-3
+VL  - 25
+IS  - 2
+SP  - 639
+EP  - 652
+SN  - 1383-4649
+UR  - http://dx.doi.org/10.1007/s10950-021-09982-3
+ER  - 
+
+TY  - JOUR
+TI  - Duration prediction of Chilean strong motion data using machine learning
+AU  - Chanda, Sarit
+AU  - Raghucharan, M.C.
+AU  - Karthik Reddy, K.S.K.
+AU  - Chaudhari, Vasudeo
+AU  - Somala, Surendra Nadh
+T2  - Journal of South American Earth Sciences
+DA  - 2021/08//
+PY  - 2021
+DO  - 10.1016/j.jsames.2021.103253
+VL  - 109
+SP  - 103253
+SN  - 0895-9811
+UR  - http://dx.doi.org/10.1016/j.jsames.2021.103253
+ER  - 
+
+TY  - JOUR
+TI  - A sensitivity study of seismicity indicators in supervised learning to improve earthquake prediction
+AU  - Asencio-Cortés, G.
+AU  - Martínez-Álvarez, F.
+AU  - Morales-Esteban, A.
+AU  - Reyes, J.
+T2  - Knowledge-Based Systems
+DA  - 2016/06//
+PY  - 2016
+DO  - 10.1016/j.knosys.2016.02.014
+VL  - 101
+SP  - 15
+EP  - 30
+SN  - 0950-7051
+UR  - http://dx.doi.org/10.1016/j.knosys.2016.02.014
+ER  - 
+
+TY  - JOUR
+TI  - Determining the best set of seismicity indicators to predict earthquakes. Two case studies: Chile and the Iberian Peninsula
+AU  - Martínez-Álvarez, F.
+AU  - Reyes, J.
+AU  - Morales-Esteban, A.
+AU  - Rubio-Escudero, C.
+T2  - Knowledge-Based Systems
+DA  - 2013/09//
+PY  - 2013
+DO  - 10.1016/j.knosys.2013.06.011
+VL  - 50
+SP  - 198
+EP  - 210
+SN  - 0950-7051
+UR  - http://dx.doi.org/10.1016/j.knosys.2013.06.011
+ER  - 
+
+TY  - JOUR
+TI  - Developing an expert system based on association rules and predicate logic for earthquake prediction
+AU  - Ikram, Aqdas
+AU  - Qamar, Usman
+T2  - Knowledge-Based Systems
+DA  - 2015/02//
+PY  - 2015
+DO  - 10.1016/j.knosys.2014.11.024
+VL  - 75
+SP  - 87
+EP  - 103
+SN  - 0950-7051
+UR  - http://dx.doi.org/10.1016/j.knosys.2014.11.024
+ER  - 
+
+TY  - JOUR
+TI  - Analysis of Pre-earthquake Signals Using ANN: Implication for Short-Term Earthquake Forecasting
+AU  - Jeyaraman, Ramya
+AU  - Senthil Kumar, M.
+AU  - Venkatanathan, N.
+T2  - Lecture Notes in Electrical Engineering
+DA  - 2021///
+PY  - 2021
+DO  - 10.1007/978-981-16-0289-4_45
+SP  - 619
+EP  - 630
+SN  - 1876-1100
+UR  - http://dx.doi.org/10.1007/978-981-16-0289-4_45
+ER  - 
+
+TY  - JOUR
+TI  - Deep Learning of Aftershock Hysteresis Effect Based on Elastic Dislocation Theory
+AU  - Chen, Jin
+AU  - Tang, Hong
+AU  - Chen, Wenkai
+DA  - 2020/07/07/
+PY  - 2020
+DO  - 10.5194/nhess-2020-161
+UR  - http://dx.doi.org/10.5194/nhess-2020-161
+ER  - 
+
+TY  - JOUR
+TI  - Deep learning of aftershock patterns following large earthquakes
+AU  - DeVries, Phoebe M. R.
+AU  - Viégas, Fernanda
+AU  - Wattenberg, Martin
+AU  - Meade, Brendan J.
+T2  - Nature
+DA  - 2018/08//
+PY  - 2018
+DO  - 10.1038/s41586-018-0438-y
+VL  - 560
+IS  - 7720
+SP  - 632
+EP  - 634
+SN  - 0028-0836
+UR  - http://dx.doi.org/10.1038/s41586-018-0438-y
+ER  - 
+
+TY  - JOUR
+TI  - Structural recurrent neural network models for earthquake prediction
+AU  - Doğan, Aydın
+AU  - Demir, Engin
+T2  - Neural Computing and Applications
+DA  - 2022/04/13/
+PY  - 2022
+DO  - 10.1007/s00521-022-07030-w
+VL  - 34
+IS  - 13
+SP  - 11049
+EP  - 11062
+SN  - 0941-0643
+UR  - http://dx.doi.org/10.1007/s00521-022-07030-w
+ER  - 
+
+TY  - JOUR
+TI  - EARTHQUAKE PREDICTION MODEL BASED ON DANGER THEORY IN ARTIFICIAL IMMUNITY
+AU  - Zhou, Wen
+AU  - Liang, Yiwen
+AU  - Ming, Zhe
+AU  - Dong, Hongbin
+T2  - Neural Network World
+DA  - 2020///
+PY  - 2020
+DO  - 10.14311/nnw.2020.30.016
+VL  - 30
+IS  - 4
+SP  - 231
+EP  - 247
+SN  - 2336-4335
+UR  - http://dx.doi.org/10.14311/nnw.2020.30.016
+ER  - 
+
+TY  - JOUR
+TI  - LARGE EARTHQUAKE MAGNITUDE PREDICTION IN TAIWAN BASED ON DEEP LEARNING NEURAL NETWORK
+AU  - Huang, Jipan
+AU  - Wang, Xin'an
+AU  - Zhao, Yong
+AU  - Xin, Chen
+AU  - Xiang, Han
+T2  - Neural Network World
+DA  - 2018///
+PY  - 2018
+DO  - 10.14311/nnw.2018.28.009
+VL  - 28
+IS  - 2
+SP  - 149
+EP  - 160
+SN  - 1210-0552
+UR  - http://dx.doi.org/10.14311/nnw.2018.28.009
+ER  - 
+
+TY  - JOUR
+TI  - A probabilistic neural network for earthquake magnitude prediction
+AU  - Adeli, Hojjat
+AU  - Panakkat, Ashif
+T2  - Neural Networks
+DA  - 2009/09//
+PY  - 2009
+DO  - 10.1016/j.neunet.2009.05.003
+VL  - 22
+IS  - 7
+SP  - 1018
+EP  - 1024
+SN  - 0893-6080
+UR  - http://dx.doi.org/10.1016/j.neunet.2009.05.003
+ER  - 
+
+TY  - JOUR
+TI  - Earthquake Forecasting Using Neural Networks: Results and Future Work
+AU  - Alves, E. Ivo
+T2  - Nonlinear Dynamics
+DA  - 2006/06//
+PY  - 2006
+DO  - 10.1007/s11071-006-2018-1
+VL  - 44
+IS  - 1-4
+SP  - 341
+EP  - 349
+SN  - 0924-090X
+UR  - http://dx.doi.org/10.1007/s11071-006-2018-1
+ER  - 
+
+TY  - JOUR
+TI  - A framework for the prediction of earthquake using federated learning
+AU  - Tehseen, Rabia
+AU  - Farooq, Muhammad Shoaib
+AU  - Abid, Adnan
+T2  - PeerJ Computer Science
+DA  - 2021/05/28/
+PY  - 2021
+DO  - 10.7717/peerj-cs.540
+VL  - 7
+SP  - e540
+SN  - 2376-5992
+UR  - http://dx.doi.org/10.7717/peerj-cs.540
+ER  - 
+
+TY  - JOUR
+TI  - Earthquake prediction model using support vector regressor and hybrid neural networks
+AU  - Asim, Khawaja M.
+AU  - Idris, Adnan
+AU  - Iqbal, Talat
+AU  - Martínez-Álvarez, Francisco
+T2  - PLOS ONE
+DA  - 2018/07/05/
+PY  - 2018
+DO  - 10.1371/journal.pone.0199004
+VL  - 13
+IS  - 7
+SP  - e0199004
+SN  - 1932-6203
+UR  - http://dx.doi.org/10.1371/journal.pone.0199004
+ER  - 
+
+TY  - CONF
+TI  - A neural network scheme for Earthquake prediction based on the seismic electric signals
+AU  - Lakkos, S.
+AU  - Hadjiprocopis, A.
+AU  - Comley, R.
+AU  - Smith, P.
+T2  - Proceedings of IEEE Workshop on Neural Networks for Signal Processing
+DO  - 10.1109/nnsp.1994.365997
+PB  - IEEE
+UR  - http://dx.doi.org/10.1109/nnsp.1994.365997
+ER  - 
+
+TY  - CONF
+TI  - Earthquake Prediction System using Neuro-Fuzzy and Extreme Learning Machine
+AU  - Rahmat, Basuki
+AU  - Afiadi, Fitri
+AU  - Joelianto, Endra
+T2  - Proceedings of the International Conference on Science and Technology (ICST 2018)
+DA  - 2018///
+PY  - 2018
+DO  - 10.2991/icst-18.2018.95
+PB  - Atlantis Press
+UR  - http://dx.doi.org/10.2991/icst-18.2018.95
+ER  - 
+
+TY  - JOUR
+TI  - Earthquake Prediction Based on LM-BP Neural Network
+AU  - Zhou, Feiyan
+AU  - Zhu, Xiaofeng
+T2  - Lecture Notes in Electrical Engineering
+DA  - 2013/11/05/
+PY  - 2013
+DO  - 10.1007/978-3-642-40618-8_2
+SP  - 13
+EP  - 20
+SN  - 1876-1100
+UR  - http://dx.doi.org/10.1007/978-3-642-40618-8_2
+ER  - 
+
+TY  - JOUR
+TI  - An Integration of Deep Learning and Transfer Learning for Earthquake-Risk Assessment in the Eurasian Region
+AU  - Jena, Ratiranjan
+AU  - Shanableh, Abdallah
+AU  - Al-Ruzouq, Rami
+AU  - Pradhan, Biswajeet
+AU  - Gibril, Mohamed Barakat A.
+AU  - Ghorbanzadeh, Omid
+AU  - Atzberger, Clement
+AU  - Khalil, Mohamad Ali
+AU  - Mittal, Himanshu
+AU  - Ghamisi, Pedram
+T2  - Remote Sensing
+DA  - 2023/07/28/
+PY  - 2023
+DO  - 10.3390/rs15153759
+VL  - 15
+IS  - 15
+SP  - 3759
+SN  - 2072-4292
+UR  - http://dx.doi.org/10.3390/rs15153759
+ER  - 
+
+TY  - JOUR
+TI  - Earthquake hazard and risk assessment using machine learning approaches at Palu, Indonesia
+AU  - Jena, Ratiranjan
+AU  - Pradhan, Biswajeet
+AU  - Beydoun, Ghassan
+AU  - Alamri, Abdullah M.
+AU  - Ardiansyah
+AU  - Nizamuddin
+AU  - Sofyan, Hizir
+T2  - Science of The Total Environment
+DA  - 2020/12//
+PY  - 2020
+DO  - 10.1016/j.scitotenv.2020.141582
+VL  - 749
+SP  - 141582
+SN  - 0048-9697
+UR  - http://dx.doi.org/10.1016/j.scitotenv.2020.141582
+ER  - 
+
+TY  - JOUR
+TI  - Towards advancing the earthquake forecasting by machine learning of satellite data
+AU  - Xiong, Pan
+AU  - Tong, Lei
+AU  - Zhang, Kun
+AU  - Shen, Xuhui
+AU  - Battiston, Roberto
+AU  - Ouzounov, Dimitar
+AU  - Iuppa, Roberto
+AU  - Crookes, Danny
+AU  - Long, Cheng
+AU  - Zhou, Huiyu
+T2  - Science of The Total Environment
+DA  - 2021/06//
+PY  - 2021
+DO  - 10.1016/j.scitotenv.2021.145256
+VL  - 771
+SP  - 145256
+SN  - 0048-9697
+UR  - http://dx.doi.org/10.1016/j.scitotenv.2021.145256
+ER  - 
+
+TY  - JOUR
+TI  - A neural encoder for earthquake rate forecasting
+AU  - Zlydenko, Oleg
+AU  - Elidan, Gal
+AU  - Hassidim, Avinatan
+AU  - Kukliansky, Doron
+AU  - Matias, Yossi
+AU  - Meade, Brendan
+AU  - Molchanov, Alexandra
+AU  - Nevo, Sella
+AU  - Bar-Sinai, Yohai
+T2  - Scientific Reports
+DA  - 2023/07/31/
+PY  - 2023
+DO  - 10.1038/s41598-023-38033-9
+VL  - 13
+IS  - 1
+SN  - 2045-2322
+UR  - http://dx.doi.org/10.1038/s41598-023-38033-9
+ER  - 
+
+TY  - CONF
+TI  - A Comparative Analysis of ANN and ANFIS Approaches for Earthquake Forecasting
+AU  - Rana, Anurag
+AU  - Vaidya, Pankaj
+AU  - Hu, Yu-Chen
+T2  - 2022 Second International Conference on Computer Science, Engineering and Applications (ICCSEA)
+DA  - 2022/09/08/
+PY  - 2022
+DO  - 10.1109/iccsea54677.2022.9936133
+PB  - IEEE
+UR  - http://dx.doi.org/10.1109/iccsea54677.2022.9936133
+ER  - 
+
+TY  - JOUR
+TI  - A Deep Learning-Based Electromagnetic Signal for Earthquake Magnitude Prediction
+AU  - Bao, Zhenyu
+AU  - Zhao, Jingyu
+AU  - Huang, Pu
+AU  - Yong, Shanshan
+AU  - Wang, Xin’an
+T2  - Sensors
+DA  - 2021/06/28/
+PY  - 2021
+DO  - 10.3390/s21134434
+VL  - 21
+IS  - 13
+SP  - 4434
+SN  - 1424-8220
+UR  - http://dx.doi.org/10.3390/s21134434
+ER  - 
+
+TY  - JOUR
+TI  - Earthquake Probability Assessment for the Indian Subcontinent Using Deep Learning
+AU  - Jena, Ratiranjan
+AU  - Pradhan, Biswajeet
+AU  - Al-Amri, Abdullah
+AU  - Lee, Chang Wook
+AU  - Park, Hyuck-jin
+T2  - Sensors
+DA  - 2020/08/05/
+PY  - 2020
+DO  - 10.3390/s20164369
+VL  - 20
+IS  - 16
+SP  - 4369
+SN  - 1424-8220
+UR  - http://dx.doi.org/10.3390/s20164369
+ER  - 
+
+TY  - JOUR
+TI  - A location-dependent earthquake prediction using recurrent neural network algorithms
+AU  - Berhich, Asmae
+AU  - Belouadha, Fatima-Zahra
+AU  - Kabbaj, Mohammed Issam
+T2  - Soil Dynamics and Earthquake Engineering
+DA  - 2022/10//
+PY  - 2022
+DO  - 10.1016/j.soildyn.2022.107389
+VL  - 161
+SP  - 107389
+SN  - 0267-7261
+UR  - http://dx.doi.org/10.1016/j.soildyn.2022.107389
+ER  - 
+
+TY  - JOUR
+TI  - An attention-based LSTM network for large earthquake prediction
+AU  - Berhich, Asmae
+AU  - Belouadha, Fatima-Zahra
+AU  - Kabbaj, Mohammed Issam
+T2  - Soil Dynamics and Earthquake Engineering
+DA  - 2023/02//
+PY  - 2023
+DO  - 10.1016/j.soildyn.2022.107663
+VL  - 165
+SP  - 107663
+SN  - 0267-7261
+UR  - http://dx.doi.org/10.1016/j.soildyn.2022.107663
+ER  - 
+
+TY  - JOUR
+TI  - Exploring the reliability of different artificial intelligence techniques in predicting earthquake for Malaysia
+AU  - Essam, Yusuf
+AU  - Kumar, Pavitra
+AU  - Ahmed, Ali Najah
+AU  - Murti, Muhammad Ary
+AU  - El-Shafie, Ahmed
+T2  - Soil Dynamics and Earthquake Engineering
+DA  - 2021/08//
+PY  - 2021
+DO  - 10.1016/j.soildyn.2021.106826
+VL  - 147
+SP  - 106826
+SN  - 0267-7261
+UR  - http://dx.doi.org/10.1016/j.soildyn.2021.106826
+ER  - 
+
+TY  - JOUR
+TI  - Seismic indicators based earthquake predictor system using Genetic Programming and AdaBoost classification
+AU  - Asim, Khawaja M.
+AU  - Idris, Adnan
+AU  - Iqbal, Talat
+AU  - Martínez-Álvarez, Francisco
+T2  - Soil Dynamics and Earthquake Engineering
+DA  - 2018/08//
+PY  - 2018
+DO  - 10.1016/j.soildyn.2018.04.020
+VL  - 111
+SP  - 1
+EP  - 7
+SN  - 0267-7261
+UR  - http://dx.doi.org/10.1016/j.soildyn.2018.04.020
+ER  - 
+
+TY  - JOUR
+TI  - Seismicity analysis and machine learning models for short-term low magnitude seismic activity predictions in Cyprus
+AU  - Asim, Khawaja M.
+AU  - Moustafa, Sayed SR.
+AU  - Niaz, Iftikhar Azim
+AU  - Elawadi, Eslam A.
+AU  - Iqbal, Talat
+AU  - Martínez-Álvarez, Francisco
+T2  - Soil Dynamics and Earthquake Engineering
+DA  - 2020/03//
+PY  - 2020
+DO  - 10.1016/j.soildyn.2019.105932
+VL  - 130
+SP  - 105932
+SN  - 0267-7261
+UR  - http://dx.doi.org/10.1016/j.soildyn.2019.105932
+ER  - 
+
+TY  - JOUR
+TI  - Spatiotemporally explicit earthquake prediction using deep neural network
+AU  - Yousefzadeh, Mohsen
+AU  - Hosseini, Seyyed Ahmad
+AU  - Farnaghi, Mahdi
+T2  - Soil Dynamics and Earthquake Engineering
+DA  - 2021/05//
+PY  - 2021
+DO  - 10.1016/j.soildyn.2021.106663
+VL  - 144
+SP  - 106663
+SN  - 0267-7261
+UR  - http://dx.doi.org/10.1016/j.soildyn.2021.106663
+ER  - 
+
+TY  - JOUR
+TI  - Analysis of Earthquake Forecasting in India Using Supervised Machine Learning Classifiers
+AU  - Debnath, Papiya
+AU  - Chittora, Pankaj
+AU  - Chakrabarti, Tulika
+AU  - Chakrabarti, Prasun
+AU  - Leonowicz, Zbigniew
+AU  - Jasinski, Michal
+AU  - Gono, Radomir
+AU  - Jasińska, Elżbieta
+T2  - Sustainability
+DA  - 2021/01/19/
+PY  - 2021
+DO  - 10.3390/su13020971
+VL  - 13
+IS  - 2
+SP  - 971
+SN  - 2071-1050
+UR  - http://dx.doi.org/10.3390/su13020971
+ER  - 
+
+TY  - JOUR
+TI  - Long Short-Term Memory Networks for Pattern Recognition of Synthetical Complete Earthquake Catalog
+AU  - Cao, Chen
+AU  - Wu, Xiangbin
+AU  - Yang, Lizhi
+AU  - Zhang, Qian
+AU  - Wang, Xianying
+AU  - Yuen, David A.
+AU  - Luo, Gang
+T2  - Sustainability
+DA  - 2021/04/27/
+PY  - 2021
+DO  - 10.3390/su13094905
+VL  - 13
+IS  - 9
+SP  - 4905
+SN  - 2071-1050
+UR  - http://dx.doi.org/10.3390/su13094905
+ER  - 
+
+TY  - JOUR
+TI  - Earthquake prediction in seismogenic areas of the Iberian Peninsula based on computational intelligence
+AU  - Morales-Esteban, A.
+AU  - Martínez-Álvarez, F.
+AU  - Reyes, J.
+T2  - Tectonophysics
+DA  - 2013/05//
+PY  - 2013
+DO  - 10.1016/j.tecto.2013.02.036
+VL  - 593
+SP  - 121
+EP  - 134
+SN  - 0040-1951
+UR  - http://dx.doi.org/10.1016/j.tecto.2013.02.036
+ER  - 
+
+TY  - JOUR
+TI  - Comparison of machine learning performance for earthquake prediction in Indonesia using 30 years historical data
+AU  - Murwantara, I Made
+AU  - Yugopuspito, Pujianto
+AU  - Hermawan, Rickhen
+T2  - TELKOMNIKA (Telecommunication Computing Electronics and Control)
+DA  - 2020/06/01/
+PY  - 2020
+DO  - 10.12928/telkomnika.v18i3.14756
+VL  - 18
+IS  - 3
+SP  - 1331
+SN  - 2302-9293
+UR  - http://dx.doi.org/10.12928/telkomnika.v18i3.14756
+ER  - 
+
+TY  - JOUR
+TI  - Artificial Adaptive Systems to predict the magnitude of earthquakes.
+AU  - Buscema, PM
+AU  - Massini, G
+AU  - Maurelli, G
+T2  - Bollettino di Geofisica Teorica ed Applicata
+DA  - 2015///
+PY  - 2015
+VL  - 56
+IS  - 2
+ER  - 
+
+TY  - JOUR
+TI  - Earthquake magnitude prediction for andaman-nicobar Islands: adaptive neuro fuzzy modeling with fuzzy subtractive clustering approach
+AU  - Kamath, RS
+AU  - Kamat, RK
+T2  - J. Chem. Pharm. Sci
+DA  - 2017///
+PY  - 2017
+VL  - 10
+IS  - 3
+SP  - 1228
+EP  - 1233
+ER  - 
+
+TY  - JOUR
+TI  - Comparison of B-Value Predictions as Earthquake Precursors using Extreme Learning Machine and Deep Learning
+AU  - Rahmat, Basuki
+AU  - Joelianto, Endra
+AU  - Afiadi, Fitri
+AU  - Fandenza, Angga Dwi Lucas
+AU  - Kurniawan, Raka Adjie
+AU  - Puspaningrum, Eva Yulia
+AU  - Nugroho, Budi
+AU  - Kartika, Dhian Satria Yudha
+ER  - 
+
+TY  - JOUR
+TI  - Intelligent earthquake prediction system based on neural network
+AU  - Amar, Emad
+AU  - Khattab, Tawfik
+AU  - Zada, Fatma
+T2  - International Journal of Civil and Environmental Engineering
+DA  - 2015///
+PY  - 2015
+VL  - 8
+IS  - 12
+SP  - 874
+EP  - 878
+ER  - 
+
+TY  - JOUR
+TI  - Earthquake forecasting using artificial neural networks
+AU  - Bhatia, Anmol
+AU  - Pasari, Sumanta
+AU  - Mehta, Anand
+T2  - The international archives of the photogrammetry, remote sensing and spatial information sciences
+DA  - 2018///
+PY  - 2018
+VL  - 42
+SP  - 823
+EP  - 827
+ER  - 
+
+TY  - JOUR
+TI  - An artificial neural network model for earthquake prediction and relations between environmental parameters and earthquakes
+AU  - Niksarlioglu, S
+AU  - Kulahci, F
+T2  - International Journal of Geological and Environmental Engineering
+DA  - 2013///
+PY  - 2013
+VL  - 7
+IS  - 2
+SP  - 87
+EP  - 90
+ER  - 
+
